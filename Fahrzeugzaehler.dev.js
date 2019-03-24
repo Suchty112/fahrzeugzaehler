@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Fahrzeugzähler
+// @name         Fahrzeugzähler123
 // @version      1
 // @description  Zählt die Fahrzeuge auf Anfahrt und vor Ort von jedem am Einsatz teilnehmenden Kameraden
 // @author       Allure149
